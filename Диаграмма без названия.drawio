@@ -41,49 +41,49 @@
           <mxGeometry x="570" y="560" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="epi0C_etYSSGbKdn1uX5-28" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Информация о клиенте&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="44" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="714" y="345" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="epi0C_etYSSGbKdn1uX5-29" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Информация об автомобиле&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="44" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="714" y="425" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="epi0C_etYSSGbKdn1uX5-30" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Поиск автомобиля&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="44" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="714" y="495" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="epi0C_etYSSGbKdn1uX5-31" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Бронирование&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;автомобиля&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="44" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="714" y="565" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="epi0C_etYSSGbKdn1uX5-32" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Уведомления&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="44" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="714" y="105" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="epi0C_etYSSGbKdn1uX5-33" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Оплата&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="44" y="650" width="120" height="60" as="geometry" />
+          <mxGeometry x="714" y="645" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="epi0C_etYSSGbKdn1uX5-34" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Акксессуары&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="44" y="725" width="120" height="60" as="geometry" />
+          <mxGeometry x="714" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="epi0C_etYSSGbKdn1uX5-35" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Поддержка&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;клиентов&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="44" y="800" width="120" height="60" as="geometry" />
+          <mxGeometry x="714" y="795" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="epi0C_etYSSGbKdn1uX5-36" value="&lt;div&gt;Обратная связь&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="44" y="870" width="120" height="60" as="geometry" />
+          <mxGeometry x="714" y="865" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="epi0C_etYSSGbKdn1uX5-37" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Мониторинг&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="44" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="714" y="255" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="epi0C_etYSSGbKdn1uX5-38" value="Местоположение автомобиля" style="html=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="184" y="265" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="epi0C_etYSSGbKdn1uX5-39" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Сервисное обслуживание&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="44" y="185" width="120" height="60" as="geometry" />
+          <mxGeometry x="714" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="epi0C_etYSSGbKdn1uX5-43" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="170" y="940" as="sourcePoint" />
-            <mxPoint x="170" y="60" as="targetPoint" />
+            <mxPoint x="850" y="960" as="sourcePoint" />
+            <mxPoint x="850" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="epi0C_etYSSGbKdn1uX5-49" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Предметная область&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="65" width="126" height="30" as="geometry" />
+          <mxGeometry x="714" y="60" width="126" height="30" as="geometry" />
         </mxCell>
         <mxCell id="epi0C_etYSSGbKdn1uX5-50" value="&lt;span style=&quot;text-align: left;&quot;&gt;Требования&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="209" y="60" width="60" height="30" as="geometry" />
@@ -93,9 +93,60 @@
         </mxCell>
         <mxCell id="epi0C_etYSSGbKdn1uX5-54" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="810" y="90" as="sourcePoint" />
-            <mxPoint x="10" y="90" as="targetPoint" />
+            <mxPoint x="1430" y="90" as="sourcePoint" />
+            <mxPoint x="184" y="90" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="epi0C_etYSSGbKdn1uX5-55" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="60" as="sourcePoint" />
+            <mxPoint x="700" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="epi0C_etYSSGbKdn1uX5-56" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Сервисы&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="860" y="60" width="126" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="epi0C_etYSSGbKdn1uX5-57" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Сервис&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;уведомлений&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="870" y="105" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="epi0C_etYSSGbKdn1uX5-58" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Сервис&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Сервисного обслуживания&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="870" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="epi0C_etYSSGbKdn1uX5-59" value="&lt;div&gt;Сервис&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Мониторинга&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="870" y="255" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="epi0C_etYSSGbKdn1uX5-60" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Сервис И&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;нформации о клиентах&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="345" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="epi0C_etYSSGbKdn1uX5-61" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Сервис&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Информации об автомобиле&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="425" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="epi0C_etYSSGbKdn1uX5-62" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Сервис&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Поиска автомобиля&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="495" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="epi0C_etYSSGbKdn1uX5-63" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Сервис&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Бронирования&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;автомобиля&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="565" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="epi0C_etYSSGbKdn1uX5-64" value="&lt;div&gt;Сервис&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Оплаты&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="645" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="epi0C_etYSSGbKdn1uX5-65" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Сервис&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Подбора Акксессуаров&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="epi0C_etYSSGbKdn1uX5-66" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Сервис&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Поддержки&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;клиентов&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="795" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="epi0C_etYSSGbKdn1uX5-67" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Сервис&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Обратнаой&lt;/div&gt;&lt;div&gt;связи&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="865" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="epi0C_etYSSGbKdn1uX5-71" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1000" y="960" as="sourcePoint" />
+            <mxPoint x="1000" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="epi0C_etYSSGbKdn1uX5-72" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Критерии качества&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="60" width="126" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
