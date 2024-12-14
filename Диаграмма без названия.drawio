@@ -1,9 +1,96 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Страница — 1" id="cTIHMesXAAecEi_Y4hJ7">
-    <mxGraphModel>
+    <mxGraphModel dx="2074" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="epi0C_etYSSGbKdn1uX5-9" value="Поиск автомобиля" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="184" y="510" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="epi0C_etYSSGbKdn1uX5-10" value="Бронирование автомобиля по наличию" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="184" y="570" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="epi0C_etYSSGbKdn1uX5-12" value="Добавление кресла" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="184" y="725" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="epi0C_etYSSGbKdn1uX5-13" value="Бронирование автомобиля на дату/время" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="314" y="570" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="epi0C_etYSSGbKdn1uX5-14" value="Изменение бронирования (дата время)" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="444" y="570" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="epi0C_etYSSGbKdn1uX5-15" value="Поддержка&amp;nbsp;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="304" y="800" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="epi0C_etYSSGbKdn1uX5-16" value="Страховые случаи" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="184" y="800" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="epi0C_etYSSGbKdn1uX5-18" value="Обратная связь.&lt;div&gt;Отзывы&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="184" y="880" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="epi0C_etYSSGbKdn1uX5-20" value="Статус автомобиля" style="html=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="304" y="265" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="epi0C_etYSSGbKdn1uX5-21" value="Уведомление о бронировании" style="html=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="184" y="115" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="epi0C_etYSSGbKdn1uX5-23" value="Подготовка к выдаче" style="html=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="184" y="190" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="epi0C_etYSSGbKdn1uX5-24" value="Долгосрочное бронирование&lt;div&gt;(Спецпредложения скидки)&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="570" y="560" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="epi0C_etYSSGbKdn1uX5-28" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Информация о клиенте&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="44" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="epi0C_etYSSGbKdn1uX5-29" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Информация об автомобиле&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="44" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="epi0C_etYSSGbKdn1uX5-30" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Поиск автомобиля&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="44" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="epi0C_etYSSGbKdn1uX5-31" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Бронирование&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;автомобиля&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="44" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="epi0C_etYSSGbKdn1uX5-32" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Уведомления&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="44" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="epi0C_etYSSGbKdn1uX5-33" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Оплата&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="44" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="epi0C_etYSSGbKdn1uX5-34" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Акксессуары&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="44" y="725" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="epi0C_etYSSGbKdn1uX5-35" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Поддержка&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;клиентов&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="44" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="epi0C_etYSSGbKdn1uX5-36" value="&lt;div&gt;Обратная связь&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="44" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="epi0C_etYSSGbKdn1uX5-37" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Мониторинг&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="44" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="epi0C_etYSSGbKdn1uX5-38" value="Местоположение автомобиля" style="html=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="184" y="265" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="epi0C_etYSSGbKdn1uX5-39" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Сервисное обслуживание&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="44" y="185" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="epi0C_etYSSGbKdn1uX5-43" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="940" as="sourcePoint" />
+            <mxPoint x="170" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="epi0C_etYSSGbKdn1uX5-49" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Предметная область&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="15" width="126" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="epi0C_etYSSGbKdn1uX5-50" value="&lt;span style=&quot;text-align: left;&quot;&gt;Требования&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="209" y="10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="epi0C_etYSSGbKdn1uX5-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="epi0C_etYSSGbKdn1uX5-50" target="epi0C_etYSSGbKdn1uX5-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
