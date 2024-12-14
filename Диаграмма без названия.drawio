@@ -58,7 +58,7 @@
         <mxCell id="epi0C_etYSSGbKdn1uX5-33" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Оплата&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="714" y="645" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="epi0C_etYSSGbKdn1uX5-34" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Акксессуары&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="epi0C_etYSSGbKdn1uX5-34" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Аксессуары&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="714" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="epi0C_etYSSGbKdn1uX5-35" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Поддержка&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;клиентов&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -136,7 +136,7 @@
         <mxCell id="epi0C_etYSSGbKdn1uX5-66" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Сервис&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Поддержки&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;клиентов&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="870" y="795" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="epi0C_etYSSGbKdn1uX5-67" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Сервис&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Обратнаой&lt;/div&gt;&lt;div&gt;связи&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="epi0C_etYSSGbKdn1uX5-67" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Сервис&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Обратной&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;связи&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="870" y="865" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="epi0C_etYSSGbKdn1uX5-71" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -166,8 +166,20 @@
         <mxCell id="epi0C_etYSSGbKdn1uX5-78" value="Актуальная информация о нахождении и доступности автомобиля" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1020" y="500" width="420" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="epi0C_etYSSGbKdn1uX5-79" value="Актуальная информация о нахождении и доступности автомобиля" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="epi0C_etYSSGbKdn1uX5-79" value="&lt;span style=&quot;color: rgb(31, 31, 31); font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font&gt;Удобство использования&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1020" y="570" width="420" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="epi0C_etYSSGbKdn1uX5-80" value="&lt;span style=&quot;color: rgb(31, 31, 31); font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font&gt;Возможность оплаты различными способами&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="660" width="420" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="epi0C_etYSSGbKdn1uX5-81" value="&lt;span style=&quot;color: rgb(31, 31, 31); font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font&gt;Выбор из различных категорий аксессуаров&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="735" width="420" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="epi0C_etYSSGbKdn1uX5-82" value="&lt;font face=&quot;Google Sans, Arial, sans-serif&quot; color=&quot;#1f1f1f&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Поддержка в реальом времени&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="810" width="420" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="epi0C_etYSSGbKdn1uX5-83" value="&lt;font face=&quot;Google Sans, Arial, sans-serif&quot; color=&quot;#1f1f1f&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Обратная связь от зарегистрированных клиентов&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="880" width="420" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
