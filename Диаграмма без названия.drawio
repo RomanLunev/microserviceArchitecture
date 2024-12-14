@@ -37,7 +37,7 @@
         <mxCell id="epi0C_etYSSGbKdn1uX5-23" value="Подготовка к выдаче" style="html=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="184" y="190" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="epi0C_etYSSGbKdn1uX5-24" value="Долгосрочное бронирование&lt;div&gt;(Спецпредложения скидки)&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="epi0C_etYSSGbKdn1uX5-24" value="Долгосрочное бронирование" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="570" y="560" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="epi0C_etYSSGbKdn1uX5-28" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Информация о клиенте&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -151,7 +151,7 @@
         <mxCell id="epi0C_etYSSGbKdn1uX5-73" value="Актуальная информация в течение 30с с момента изменения состояния" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1020" y="105" width="420" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="epi0C_etYSSGbKdn1uX5-74" value="&lt;div&gt;&lt;div&gt;Подготовка автомобиля ко времени заказа&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="epi0C_etYSSGbKdn1uX5-74" value="&lt;div&gt;&lt;div&gt;Наличие графа состояний обсслуживания автомобиля и возмжоность перехода по данному графу.&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Актуальная информация в реальном времени&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1020" y="190" width="420" height="30" as="geometry" />
         </mxCell>
         <mxCell id="epi0C_etYSSGbKdn1uX5-75" value="Актуальная информация в реальном времени" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -166,16 +166,16 @@
         <mxCell id="epi0C_etYSSGbKdn1uX5-78" value="Актуальная информация о нахождении и доступности автомобиля" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1020" y="500" width="420" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="epi0C_etYSSGbKdn1uX5-79" value="&lt;span style=&quot;color: rgb(31, 31, 31); font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font&gt;Удобство использования&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="epi0C_etYSSGbKdn1uX5-79" value="Актуальная информация в реальном времени" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1020" y="570" width="420" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="epi0C_etYSSGbKdn1uX5-80" value="&lt;span style=&quot;color: rgb(31, 31, 31); font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font&gt;Возможность оплаты различными способами&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="epi0C_etYSSGbKdn1uX5-80" value="&lt;span style=&quot;color: rgb(31, 31, 31); font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font&gt;Возможность оплаты различными способами в реальном времени&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1020" y="660" width="420" height="30" as="geometry" />
         </mxCell>
         <mxCell id="epi0C_etYSSGbKdn1uX5-81" value="&lt;span style=&quot;color: rgb(31, 31, 31); font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font&gt;Выбор из различных категорий аксессуаров&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="735" width="420" height="30" as="geometry" />
+          <mxGeometry x="1020" y="725" width="420" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="epi0C_etYSSGbKdn1uX5-82" value="&lt;font face=&quot;Google Sans, Arial, sans-serif&quot; color=&quot;#1f1f1f&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Поддержка в реальом времени&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="epi0C_etYSSGbKdn1uX5-82" value="&lt;font face=&quot;Google Sans, Arial, sans-serif&quot; color=&quot;#1f1f1f&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Поддержка в реальн&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(31, 31, 31); font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif;&quot;&gt;ом времени&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1020" y="810" width="420" height="30" as="geometry" />
         </mxCell>
         <mxCell id="epi0C_etYSSGbKdn1uX5-83" value="&lt;font face=&quot;Google Sans, Arial, sans-serif&quot; color=&quot;#1f1f1f&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Обратная связь от зарегистрированных клиентов&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
